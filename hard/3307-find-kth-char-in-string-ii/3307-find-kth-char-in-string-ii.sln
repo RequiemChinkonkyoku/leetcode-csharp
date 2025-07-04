@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3307-find-kth-char-in-string-ii", "3307-find-kth-char-in-string-ii\3307-find-kth-char-in-string-ii.csproj", "{094C8D30-4713-4584-A091-76AECE79E317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{094C8D30-4713-4584-A091-76AECE79E317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094C8D30-4713-4584-A091-76AECE79E317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094C8D30-4713-4584-A091-76AECE79E317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094C8D30-4713-4584-A091-76AECE79E317}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
